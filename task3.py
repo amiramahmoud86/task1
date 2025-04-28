@@ -1,0 +1,5 @@
+num1 = int(input("please enter something:"))
+print(num1)
+print(float(num1))
+print(str(num1))
+print("boolean in python are either True or False")
